@@ -23,6 +23,7 @@ A CLIENT CODE TO CONNECT WITH IT, WHICH WILL BE POSTED UP HERE SOON ENOUGH !
 
 This server is still under initial development 
 You can check out my discord server for more infos when something happens : https://discord.gg/GtWJpusBtX
+
 The project is free to use, and if you wanna add something or give some hints, feel free to !
 Credits for the main idea for this project, goes to Tom Weilan !
 
