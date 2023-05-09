@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gNVXvIRwR18nUjLPY5bk8CebDov0webBThBDr8c66tbkSnoDccYWnij99iY8UP1HhYAklrP5tWr3SnKdO3gmw==",
+  "success": true,
+  "projectFilePath": "D:\\JOÃO VICTOR\\DEV\\C#\\UnityDedicatedServer\\UnityDedicatedServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao Larissa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Joao Larissa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Joao Larissa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Joao Larissa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

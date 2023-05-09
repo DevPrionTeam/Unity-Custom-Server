@@ -1,0 +1,15 @@
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\bin\Debug\net6.0\UnityDedicatedServer.exe
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\bin\Debug\net6.0\UnityDedicatedServer.deps.json
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\bin\Debug\net6.0\UnityDedicatedServer.runtimeconfig.json
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\bin\Debug\net6.0\UnityDedicatedServer.dll
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\bin\Debug\net6.0\UnityDedicatedServer.pdb
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.csproj.AssemblyReference.cache
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.AssemblyInfoInputs.cache
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.AssemblyInfo.cs
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.csproj.CoreCompileInputs.cache
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.dll
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\refint\UnityDedicatedServer.dll
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.pdb
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\UnityDedicatedServer.genruntimeconfig.cache
+D:\JOÃO VICTOR\DEV\C#\UnityDedicatedServer\obj\Debug\net6.0\ref\UnityDedicatedServer.dll
